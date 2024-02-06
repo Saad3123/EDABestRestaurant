@@ -1,3 +1,3 @@
 # EDABestRestaurant
 
-Project currency has update issues, working on it :)
+Project currently has update issues, working on it :)
